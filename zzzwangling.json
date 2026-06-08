@@ -109,6 +109,138 @@
       ]
     },
     {
+      
+      "libs": [
+        {
+          
+        }
+      ]
+    },
+    {
+      "libs": [
+        {
+          "
+        }
+      ]
+    },
+    {
+      
+      "libs": [
+        {
+          
+        }
+      ]
+    }
+  ],
+  "music": ""
+}          "name": "ZENITSU MODZ",
+          "lib_name": "libxxx10.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx10.so"
+          },
+        {
+          "name": "DINZ MOD",
+          "lib_name": "libxxx11.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx11.so"
+          },
+        {
+          "name": "YAKAMUCHI MOD",
+          "lib_name": "libxxx12.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx12.so"
+          },
+        {
+          "name": "CID GR V4 NEW UI",
+          "lib_name": "libxxx13.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx13.so"
+          },
+        {
+          "name": "CID DELUXE GR V4",
+          "lib_name": "libxxx14.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx14.so"
+          },
+        {
+          "name": "ZXLITE.EXE MOD",
+          "lib_name": "libxxx15.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx15.so"
+          },
+        {
+          "name": "PSYCHE FREE MOD",
+          "lib_name": "libxxx16.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx16.so"
+          },
+        {
+          "name": "PSYCHE VIP MOD",
+          "lib_name": "libxxx17.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx17.so"
+          },
+        {
+          "name": "ASHESZ MOD",
+          "lib_name": "libxxx18.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx18.so"
+          },
+        {
+          "name": "CIDHAX V5",
+          "lib_name": "libxxx19.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx19.so"
+          },
+        {
+          "name": "CIDHAX DELUXE",
+          "lib_name": "libxxx20.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx20.so"
+        }
+      ]
+    }
+  ],
+  "music": ""
+}          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx11.so"
+          },
+        {
+          "name": "YAKAMUCHI MOD",
+          "lib_name": "libxxx12.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx12.so"
+          },
+        {
+          "name": "CID GR V4 NEW UI",
+          "lib_name": "libxxx13.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx13.so"
+          },
+        {
+          "name": "CID DELUXE GR V4",
+          "lib_name": "libxxx14.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx14.so"
+          },
+        {
+          "name": "ZXLITE.EXE MOD",
+          "lib_name": "libxxx15.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx15.so"
+          },
+        {
+          "name": "PSYCHE FREE MOD",
+          "lib_name": "libxxx16.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx16.so"
+          },
+        {
+          "name": "PSYCHE VIP MOD",
+          "lib_name": "libxxx17.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx17.so"
+          },
+        {
+          "name": "ASHESZ MOD",
+          "lib_name": "libxxx18.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx18.so"
+          },
+        {
+          "name": "CIDHAX V5",
+          "lib_name": "libxxx19.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx19.so"
+          },
+        {
+          "name": "CIDHAX DELUXE",
+          "lib_name": "libxxx20.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx20.so"
+        }
+      ]
+    },
+    {
       "name": "BLOOD STRIKE",
       "status": "ONLINE",
       "game_activity": "com.netease.bloodstrike.unity.MainActivity",
