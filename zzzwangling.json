@@ -224,6 +224,121 @@
       ]
     },
     {
+      "name": "BLOOD STRIKE",
+      "status": "ONLINE",
+      "game_activity": "com.netease.bloodstrike.unity.MainActivity",
+      "logo": "https://raw.githubusercontent.com/X3-RO/testdd/refs/heads/main/b23ec8eaa31eb1e679e9a88509adb3f5.jpg",
+      "libs": [
+        {
+          "name": "KIELHAX BLOODSTRIKE [ SULASOK ]",
+          "lib_name": "libkielhaxbloodstrike.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxbloodstrike.so"
+        }
+      ]
+    },
+    {
+      "name": "MOBILE LEGENDS",
+      "status": "MAINTENANCE",
+      "game_activity": "com.moba.unityplugin.MobaGameMainActivity",
+      "logo": "https://raw.githubusercontent.com/senseikiel8-coder/kiel.json/main/1ee440fb871542f6cdb2032200ef725f.jpg",
+      "libs": [
+        {
+          "name": "KIELHAX MLBB [ AUTOBAN 10Y ]",
+          "lib_name": "libkielhaxmlbb.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libkielhaxmlbb.so"
+        }
+      ]
+    },
+    {
+      "name": "CODM CRACKS",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/senseikiel8-coder/kiel.json/main/cracks.png",
+      "libs": [
+        {
+          "name": "cid deluxe",
+          "lib_name": "libv+++.so",
+          "download_url": "https://imezekiel.x10.mx/Farlight/libv+++.so"
+        }
+      ]
+    }
+  ],
+  "music": ""
+}          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx6.so"
+          },
+        {
+          "name": "CLUDDY MOD",
+          "lib_name": "libxxx7.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx7.so"
+          },
+        {
+          "name": "ASHTEV SOPAXX",
+          "lib_name": "libxxx8.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx8.so"
+          },
+        {
+          "name": "KIELHAX PREMIER PREMIUM",
+          "lib_name": "libxxx9.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx9.so"
+          },
+        {
+          "name": "ZENITSU MODZ",
+          "lib_name": "libxxx10.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx10.so"
+          },
+        {
+          "name": "DINZ MOD",
+          "lib_name": "libxxx11.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx11.so"
+          },
+        {
+          "name": "YAKAMUCHI MOD",
+          "lib_name": "libxxx12.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx12.so"
+          },
+        {
+          "name": "CID GR V4 NEW UI",
+          "lib_name": "libxxx13.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx13.so"
+          },
+        {
+          "name": "CID DELUXE GR V4",
+          "lib_name": "libxxx14.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx14.so"
+          },
+        {
+          "name": "ZXLITE.EXE MOD",
+          "lib_name": "libxxx15.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx15.so"
+          },
+        {
+          "name": "PSYCHE FREE MOD",
+          "lib_name": "libxxx16.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx16.so"
+          },
+        {
+          "name": "PSYCHE VIP MOD",
+          "lib_name": "libxxx17.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx17.so"
+          },
+        {
+          "name": "ASHESZ MOD",
+          "lib_name": "libxxx18.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx18.so"
+          },
+        {
+          "name": "CIDHAX V5",
+          "lib_name": "libxxx19.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx19.so"
+          },
+        {
+          "name": "CIDHAX DELUXE",
+          "lib_name": "libxxx20.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx20.so"
+        }
+      ]
+    },
+    {
       
       "libs": [
         {
