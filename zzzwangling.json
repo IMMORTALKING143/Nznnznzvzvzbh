@@ -105,6 +105,11 @@
           "name": "CIDHAX DELUXE",
           "lib_name": "libxxx20.so",
           "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx20.so"
+          },
+        {
+          "name": "KUPAL VVIP",
+          "lib_name": "libxxx21.so",
+          "download_url": "https://www.mediafire.com/file/962t5y20xf6wso9/libxxx21.so/file?dkey=962t5y20xf6wso9"
         }
       ]
     }
