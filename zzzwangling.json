@@ -110,6 +110,11 @@
           "name": "SHANA HAXX",
           "lib_name": "libxxx21.so",
           "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx21.so"
+          },
+        {
+          "name": "IMMORTAL KING TEST",
+          "lib_name": "libxxx22.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx22.so"
         }
       ]
     }
