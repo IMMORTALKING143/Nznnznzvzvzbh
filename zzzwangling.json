@@ -105,6 +105,11 @@
           "name": "CIDHAX DELUXE",
           "lib_name": "libxxx20.so",
           "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx20.so"
+          },
+        {
+          "name": "SHANA HAXX",
+          "lib_name": "libxxx21.so",
+          "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx21.so"
         }
       ]
     }
