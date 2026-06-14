@@ -115,11 +115,6 @@
           "name": "FEAR VVIP CHEAT",
           "lib_name": "libxxx22.so",
           "download_url": "https://astrixmainserver.x10.mx/AstrLib/libxxx22.so"
-          },
-        {
-          "name": "ZENITSU INTERNAL MOD",
-          "lib_name": "libx47.so",
-          "download_url": "https://github.com/gookdisa12213/LOADER/raw/refs/heads/main/libx47.so"
         }
       ]
     }
