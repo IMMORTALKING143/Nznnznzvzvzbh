@@ -9,17 +9,7 @@
         {
           "name": "DCIBx4AM MOD",
           "lib_name": "lib2.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib2.so"
-        },
-        {
-          "name": "KIRITO MOD",
-          "lib_name": "lib3.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib3.so"
-        },
-        {
-          "name": "DCIBx4AM",
-          "lib_name": "lib4.so",
-          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib4.so"
+          "download_url": "https://github.com/IMMORTALKING143/Immortal-King/raw/refs/heads/main/lib2.so"        
         }
       ]
     }
