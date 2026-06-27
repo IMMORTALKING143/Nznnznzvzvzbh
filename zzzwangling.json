@@ -15,6 +15,11 @@
           "name": "XGEN MOD",
           "lib_name": "lib3.so",
           "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib3.so"
+          },
+        {
+          "name": "Maintenance",
+          "lib_name": "lib4.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib4.so"
         }
       ]
     }
