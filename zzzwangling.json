@@ -25,6 +25,11 @@
           "name": "LUMINANCE MOD",
           "lib_name": "lib5.so",
           "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib5.so"
+          },
+        {
+          "name": "ZENITH PREMIUM",
+          "lib_name": "lib6.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib6.so"
         }
       ]
     }
