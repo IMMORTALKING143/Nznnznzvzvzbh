@@ -1,0 +1,63 @@
+{
+  "systems": [
+    {
+      "name": "CALL OF DUTY",
+      "status": "ONLINE",
+      "game_activity": "com.tencent.tmgp.cod.CODMainActivity",
+      "logo": "https://raw.githubusercontent.com/IMMORTALKING143/Nznnznzvzvzbh/refs/heads/main/Call%20Of%20Duty%20Mobile%20Wallpaper.jpg",
+      "libs": [
+        {
+          "name": "IMMORTAL KING MOD WITH SKIN",
+          "lib_name": "lib1.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib1.so"
+        },
+        { 
+          "name": "AXIO x LUNARIS",
+          "lib_name": "lib2.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib2.so"
+          },
+        {
+          "name": "XGEN MOD",
+          "lib_name": "lib3.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib3.so"
+          },
+        {
+          "name": "DARY MILK MOD",
+          "lib_name": "lib4.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib4.so"
+          },
+        {
+          "name": "LUMINANCE MOD",
+          "lib_name": "lib5.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib5.so"
+          },
+        {
+          "name": "ZENITH PREMIUM",
+          "lib_name": "lib6.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib6.so"
+           },
+        {
+          "name": "VVIP MOD",
+          "lib_name": "lib7.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib7.so"
+          },
+        {
+          "name": "KIRITO VIP DELUXE V5",
+          "lib_name": "lib8.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib8.so"
+          },
+        {
+          "name": "SHONE MOD",
+          "lib_name": "lib9.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib9.so"
+          },
+        {
+          "name": "GHOST DELUXE V11",
+          "lib_name": "lib10.so",
+          "download_url": "https://github.com/IMMORTALKING143/Nznnznzvzvzbh/raw/refs/heads/main/lib10.so"
+        }
+      ]
+    }
+  ],
+  "music": ""
+}
